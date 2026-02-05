@@ -1,6 +1,6 @@
 
 
-# RPG-GameTest
+# GameTest-Plataform
 
 Projeto de estudo — jogo de plataforma.
 
